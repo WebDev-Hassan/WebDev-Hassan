@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @WebDev-Hassan
 - 👀 I’m interested in VueJS
 - 🌱 I’m currently learning AWS & C#
-- 💞️ I’m looking to collaborate on C# Projects
+- 💞️ I’m looking to collaborate on AWS & C# Projects
