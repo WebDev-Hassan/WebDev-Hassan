@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WebDev-Hassan
-- 👀 I’m interested in VueJS
-- 🌱 I’m currently learning AWS & C#
-- 💞️ I’m looking to collaborate on AWS & C# Projects
+- 👋 Hi, I’m Mikey
+- 👀 I’m interested in ReactJS
+- 🌱 I’m currently learning PostrgreSQL & Python
+- 💞️ I’m looking to collaborate on Python Projects
